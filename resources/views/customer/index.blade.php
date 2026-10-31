@@ -37,7 +37,7 @@
             padding: 20px;
             text-align: right;
         }
-        table{ 
+        table{
             margin: 30px auto;
             width: 100%; 
             border-collapse: collapse; 
@@ -47,7 +47,7 @@
         th, td{ 
             padding: 10px; 
             border: 1px solid #ccc;
-            text-align: left; 
+            text-align: center;
         }
         th{ 
             background: #e9f1f2; 

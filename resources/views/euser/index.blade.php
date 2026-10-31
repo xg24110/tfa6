@@ -44,10 +44,10 @@
             background: white;
             max-width: 850px; 
         }
-        th, td{ 
+        th, td{
+            text-align: center;
             padding: 10px; 
             border: 1px solid #ccc;
-            text-align: left; 
         }
         th{ 
             background: #e9f1f2; 
